@@ -1,0 +1,6 @@
+C:\Users\student\Desktop\Max Watkins\C#\RestaurantEncapsulationExercise\RestaurantEncapsulationExercise\bin\Debug\RestaurantEncapsulationExercise.exe.config
+C:\Users\student\Desktop\Max Watkins\C#\RestaurantEncapsulationExercise\RestaurantEncapsulationExercise\bin\Debug\RestaurantEncapsulationExercise.exe
+C:\Users\student\Desktop\Max Watkins\C#\RestaurantEncapsulationExercise\RestaurantEncapsulationExercise\bin\Debug\RestaurantEncapsulationExercise.pdb
+C:\Users\student\Desktop\Max Watkins\C#\RestaurantEncapsulationExercise\RestaurantEncapsulationExercise\obj\Debug\RestaurantEncapsulationExercise.csprojResolveAssemblyReference.cache
+C:\Users\student\Desktop\Max Watkins\C#\RestaurantEncapsulationExercise\RestaurantEncapsulationExercise\obj\Debug\RestaurantEncapsulationExercise.exe
+C:\Users\student\Desktop\Max Watkins\C#\RestaurantEncapsulationExercise\RestaurantEncapsulationExercise\obj\Debug\RestaurantEncapsulationExercise.pdb
