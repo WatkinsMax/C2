@@ -1,0 +1,6 @@
+C:\Users\student\Desktop\MaxWatkins\C#\CarSalesInheritence\CarSalesInheritence\bin\Debug\CarSalesInheritence.exe.config
+C:\Users\student\Desktop\MaxWatkins\C#\CarSalesInheritence\CarSalesInheritence\obj\Debug\CarSalesInheritence.csprojResolveAssemblyReference.cache
+C:\Users\student\Desktop\MaxWatkins\C#\CarSalesInheritence\CarSalesInheritence\bin\Debug\CarSalesInheritence.exe
+C:\Users\student\Desktop\MaxWatkins\C#\CarSalesInheritence\CarSalesInheritence\bin\Debug\CarSalesInheritence.pdb
+C:\Users\student\Desktop\MaxWatkins\C#\CarSalesInheritence\CarSalesInheritence\obj\Debug\CarSalesInheritence.exe
+C:\Users\student\Desktop\MaxWatkins\C#\CarSalesInheritence\CarSalesInheritence\obj\Debug\CarSalesInheritence.pdb
