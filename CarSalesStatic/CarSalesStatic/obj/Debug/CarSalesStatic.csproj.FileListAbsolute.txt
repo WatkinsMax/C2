@@ -1,0 +1,6 @@
+C:\Users\student\Desktop\MaxWatkins\C#\CarSalesStatic\CarSalesStatic\bin\Debug\CarSalesStatic.exe.config
+C:\Users\student\Desktop\MaxWatkins\C#\CarSalesStatic\CarSalesStatic\bin\Debug\CarSalesStatic.exe
+C:\Users\student\Desktop\MaxWatkins\C#\CarSalesStatic\CarSalesStatic\bin\Debug\CarSalesStatic.pdb
+C:\Users\student\Desktop\MaxWatkins\C#\CarSalesStatic\CarSalesStatic\obj\Debug\CarSalesStatic.csprojResolveAssemblyReference.cache
+C:\Users\student\Desktop\MaxWatkins\C#\CarSalesStatic\CarSalesStatic\obj\Debug\CarSalesStatic.exe
+C:\Users\student\Desktop\MaxWatkins\C#\CarSalesStatic\CarSalesStatic\obj\Debug\CarSalesStatic.pdb

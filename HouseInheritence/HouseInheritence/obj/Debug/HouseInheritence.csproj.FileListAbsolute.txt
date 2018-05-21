@@ -1,0 +1,5 @@
+C:\Users\student\Desktop\MaxWatkins\C#\HouseInheritence\HouseInheritence\bin\Debug\HouseInheritence.exe.config
+C:\Users\student\Desktop\MaxWatkins\C#\HouseInheritence\HouseInheritence\bin\Debug\HouseInheritence.exe
+C:\Users\student\Desktop\MaxWatkins\C#\HouseInheritence\HouseInheritence\bin\Debug\HouseInheritence.pdb
+C:\Users\student\Desktop\MaxWatkins\C#\HouseInheritence\HouseInheritence\obj\Debug\HouseInheritence.exe
+C:\Users\student\Desktop\MaxWatkins\C#\HouseInheritence\HouseInheritence\obj\Debug\HouseInheritence.pdb
